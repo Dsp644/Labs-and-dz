@@ -28,4 +28,4 @@ Tasklist — выводит информацию о работающих
 Для получения более подробной информации, можно использовать центр справки и поддержки или команду help (например: help at)
 command.com — запуск командной оболочки MS-DOS;
 cmd.exe — запуск командной оболочки Windows.
-![]https://github.com/Dsp644/Labs-and-dz/issues/2#issue-4267464770
+![][https://github.com/Dsp644/Labs-and-dz/issues/2#issue-4267464770](https://github.com/Dsp644/Labs-and-dz/issues/2#issuecomment-4250514742)
