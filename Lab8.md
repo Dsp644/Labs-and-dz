@@ -16,6 +16,7 @@
 
 # journalctl
 <img width="640" height="186" alt="image" src="https://github.com/user-attachments/assets/4d4173d7-dcce-4c2b-a517-e247eb025342" />
+
 # journalctl –utc
 <img width="207" height="45" alt="image" src="https://github.com/user-attachments/assets/6751b710-f11d-469d-94ea-a9fdb45b399f" />
 
