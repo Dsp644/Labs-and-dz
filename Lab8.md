@@ -23,4 +23,20 @@
 # journalctl –b
 <img width="533" height="183" alt="image" src="https://github.com/user-attachments/assets/547e984a-f023-4228-a87b-20f700340a29" />
 
-# -- Reboot --
+# sudo mkdir -p /var/log/journal
+<img width="316" height="59" alt="image" src="https://github.com/user-attachments/assets/e4fdba4b-9a2a-468f-b10a-64ea8369d0f9" />
+
+# sudo nano /etc/systemd/journald.conf
+
+<img width="188" height="191" alt="image" src="https://github.com/user-attachments/assets/662cc424-5ba3-40b3-b04d-cca9703521a1" />
+
+# journalctl --since "2022-01-10 17:15:00"
+<img width="533" height="182" alt="image" src="https://github.com/user-attachments/assets/f064022b-00e2-458f-8a74-1d3a925835c9" />
+
+# journalctl --since yesterday
+<img width="550" height="355" alt="image" src="https://github.com/user-attachments/assets/4e6b2573-7eb6-4abf-b80c-a0445949dd83" />
+
+# journalctl --since 09:00 --until "1 hour ago"
+<img width="689" height="451" alt="image" src="https://github.com/user-attachments/assets/d190050c-e9fb-42a2-b75d-bee101494953" />
+
+# journalctl -u nginx.service
